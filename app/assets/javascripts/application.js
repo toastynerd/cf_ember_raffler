@@ -19,4 +19,3 @@
 //= require raffler
 Raffler = Ember.Application.create();
 
-//= require_tree .
